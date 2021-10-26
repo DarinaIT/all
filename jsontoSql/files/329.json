@@ -1,0 +1,43 @@
+{
+  "dna": "791c87804aa0bf659690e6338b147b038dfc92f3",
+  "name": "#329",
+  "description": "Pumpkin Gang",
+  "image": "ipfs://NewUriToReplace/329.png",
+  "edition": 329,
+  "date": 1633465318905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Pumpkin Color",
+      "value": "DarkBlue"
+    },
+    {
+      "trait_type": "Pumpkin Light",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Minions02"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "RedCap"
+    },
+    {
+      "trait_type": "Bow tie",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Gems",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Guns",
+      "value": "Revolvers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

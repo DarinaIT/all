@@ -1,0 +1,156 @@
+[18-Jun-2021 19:44:13 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'targfdgs_test_business.questions' doesn't exist in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/lib/Question.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/lib/Question.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/index.php(5): Question->getQuestionsData()
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/lib/Question.php on line 13
+[18-Jun-2021 19:48:34 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 19:48:34 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:47 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:47 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:55 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:55 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:58 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:58 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:59 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[18-Jun-2021 22:59:59 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:02:10 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:02:10 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:02:18 Europe/Sofia] PHP Warning:  require_once(/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:02:18 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/targfdgs/targovec.bg/darina/stepForm/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:03:46 Europe/Sofia] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:03:46 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:03:49 Europe/Sofia] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:03:49 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:04:01 Europe/Sofia] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:04:01 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php on line 18
+[19-Jun-2021 15:04:33 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:04:40 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:06:14 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:11:10 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:11:15 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:12:21 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host bono.superhosting.bg [Connection refused #111] in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:269
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php(62): Swift_Transport_StreamBuffer->establishSocketConnection()
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(126): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269
+[19-Jun-2021 15:14:41 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:14:51 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:18:37 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "testmail@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:18:43 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "testmail@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:20:12 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "testmail@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:25:43 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "testmail@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(38): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:26:29 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "testmail@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(38): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[19-Jun-2021 15:26:34 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "testmail@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(38): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[21-Jun-2021 09:48:14 Europe/Sofia] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "darina@booll.bg" using 2 possible authenticators in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(334): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(131): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(67): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/targfdgs/targovec.bg/darina/stepForm/stepForm/mailQuiz.php(37): Swift_Mailer->send(Object(Swift_Message))
+#4 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[21-Jun-2021 10:00:20 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:01:47 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:02:16 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:05:18 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:08:19 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:09:21 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:09:23 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:09:31 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:09:44 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95
+[21-Jun-2021 10:09:59 Europe/Sofia] PHP Warning:  quoted_printable_encode() expects parameter 1 to be string, array given in /home/targfdgs/targovec.bg/darina/stepForm/stepForm/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 95

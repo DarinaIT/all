@@ -1,0 +1,29 @@
+[08-Jul-2021 13:25:52 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$new_user_product' (T_VARIABLE) in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 12
+[08-Jul-2021 13:26:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method User::addProduct() in /home/targfdgs/targovec.bg/darina/usersApi/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 11
+[08-Jul-2021 14:43:50 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function get_user_information() on null in /home/targfdgs/targovec.bg/darina/usersApi/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 8
+[08-Jul-2021 14:45:47 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function get_user_information() on null in /home/targfdgs/targovec.bg/darina/usersApi/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 8
+[08-Jul-2021 14:46:42 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function get_user_information() on null in /home/targfdgs/targovec.bg/darina/usersApi/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 8
+[08-Jul-2021 14:46:58 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function get_user_information() on null in /home/targfdgs/targovec.bg/darina/usersApi/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 8
+[08-Jul-2021 14:47:47 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function get_user_information() on null in /home/targfdgs/targovec.bg/darina/usersApi/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 8
+[08-Jul-2021 14:48:58 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function get_user_information() on null in /home/targfdgs/targovec.bg/darina/usersApi/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/usersApi/index.php on line 9

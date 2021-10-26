@@ -1,0 +1,39 @@
+{
+  "dna": "62cb206ed92e7cad6cfff68d131533f5b57ae247",
+  "name": "#5857",
+  "description": "Pumpkin Gang",
+  "image": "ipfs://NewUriToReplace/5857.png",
+  "edition": 5857,
+  "date": 1633465144410,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightRed"
+    },
+    {
+      "trait_type": "Pumpkin Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fire Eyes",
+      "value": "FireEyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bow tie",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Gems",
+      "value": "Tresure"
+    },
+    {
+      "trait_type": "Guns",
+      "value": "LeftHandRevolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

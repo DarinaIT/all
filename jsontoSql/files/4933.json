@@ -1,0 +1,47 @@
+{
+  "dna": "22b9c410ad0f426a2a478ccce31f31d442bbe233",
+  "name": "#4933",
+  "description": "Pumpkin Gang",
+  "image": "ipfs://NewUriToReplace/4933.png",
+  "edition": 4933,
+  "date": 1633465125396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightRed"
+    },
+    {
+      "trait_type": "Gunshot Holes",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Pumpkin Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Pumpkin Light",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "OrangeBlue"
+    },
+    {
+      "trait_type": "Bow tie",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Bitcoin Badge",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Guns",
+      "value": "Revolvers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

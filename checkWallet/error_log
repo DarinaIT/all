@@ -1,0 +1,49 @@
+[14-Oct-2021 18:19:26 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 21
+[14-Oct-2021 18:20:28 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(7): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:22:43 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(8): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:25:36 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(8): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:29:23 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(8): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:30:14 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(8): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:30:22 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(8): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:34:36 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(11): Wallet->searchForWallet(Array)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13
+[14-Oct-2021 18:35:36 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'A96F28' in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php:13
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php(13): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/checkWallet/checkWallet.php(10): Wallet->searchForWallet('0x67a96f284ab52...')
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/checkWallet/Wallet.php on line 13

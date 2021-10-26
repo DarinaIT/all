@@ -1,0 +1,91 @@
+[30-Jun-2021 19:24:58 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[30-Jun-2021 19:24:58 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[30-Jun-2021 19:24:58 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:48:51 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:48:51 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:48:51 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:50:03 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:50:03 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:50:03 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:50:04 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:50:04 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:50:04 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:50:25 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:50:25 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:50:25 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:50:27 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:50:27 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:50:27 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:52:38 Europe/Sofia] PHP Warning:  include_once(./Database.php): failed to open stream: No such file or directory in /home/targfdgs/targovec.bg/darina/rado_google_feed/secure/Product.php on line 3
+[01-Jul-2021 09:52:38 Europe/Sofia] PHP Warning:  include_once(): Failed opening './Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/targfdgs/targovec.bg/darina/rado_google_feed/secure/Product.php on line 3
+[01-Jul-2021 09:52:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/targfdgs/targovec.bg/darina/rado_google_feed/secure/Product.php:7
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php(10): Product->__construct()
+#1 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/secure/Product.php on line 7
+[01-Jul-2021 09:52:52 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:52:52 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:52:52 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:53:38 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:53:38 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:53:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:54:31 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:54:31 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:54:31 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:54:59 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:54:59 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:54:59 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:55:01 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:55:01 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:55:01 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:55:01 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:55:01 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:55:01 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:55:02 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:55:02 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:55:02 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::saveXML() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:56:35 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:56:35 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
+[01-Jul-2021 09:56:35 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:58:08 Europe/Sofia] PHP Fatal error:  Cannot use [] for reading in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 85
+[01-Jul-2021 09:58:16 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 63
+[01-Jul-2021 09:58:16 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/targfdgs/targovec.bg/darina/rado_google_feed/shoppingfeed.php on line 84
