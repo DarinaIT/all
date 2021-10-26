@@ -1,0 +1,12 @@
+[14-Oct-2021 13:25:06 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/targfdgs/targovec.bg/darina/bscScanWallets/Wallet.php:14
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/bscScanWallets/Wallet.php(14): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/bscScanWallets/index.php(4): Wallet->getWalletsWithMinimumValue(NULL)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/bscScanWallets/Wallet.php on line 14
+[14-Oct-2021 13:25:42 Europe/Sofia] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/targfdgs/targovec.bg/darina/bscScanWallets/Wallet.php:14
+Stack trace:
+#0 /home/targfdgs/targovec.bg/darina/bscScanWallets/Wallet.php(14): PDOStatement->execute()
+#1 /home/targfdgs/targovec.bg/darina/bscScanWallets/index.php(4): Wallet->getWalletsWithMinimumValue(NULL)
+#2 {main}
+  thrown in /home/targfdgs/targovec.bg/darina/bscScanWallets/Wallet.php on line 14
