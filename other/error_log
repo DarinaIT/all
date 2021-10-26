@@ -1,0 +1,10 @@
+[16-Aug-2021 22:02:14 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/balance.php on line 42
+[16-Aug-2021 22:07:58 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/targfdgs/targovec.bg/darina/balance.php on line 42
+[16-Aug-2021 22:13:44 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/balanceResult.php on line 13
+[16-Aug-2021 22:13:58 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/balanceResult.php on line 13
+[16-Aug-2021 22:14:25 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/balance.php on line 260
+[16-Aug-2021 22:14:45 Europe/Sofia] PHP Warning:  file_get_contents(https://bscscan.com/token/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/targfdgs/targovec.bg/darina/balance.php on line 3
+[16-Aug-2021 22:14:46 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/balance.php on line 259
+[16-Aug-2021 22:15:33 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/balance.php on line 260
+[16-Aug-2021 22:16:30 Europe/Sofia] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/targfdgs/targovec.bg/darina/balance.php on line 259

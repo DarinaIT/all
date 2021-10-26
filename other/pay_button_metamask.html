@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.34/dist/web3.js"></script>
+</head>
+<body>
+  <div>
+    <form id="loggedUserInfoForm" method="post">
+      <button class="pay-button">Pay</button>
+    </form>
+	<div id="status"></div>
+  </div>
+  <script type="text/javascript">
+    window.addEventListener('load', async () => {
+      if (window.ethereum) {
+        window.web3 = new Web3(ethereum);
+        try {
+          await ethereum.enable();
+          initPayButton()
+        } catch (err) {
+          $('#status').html('User denied account access', err)
+        }
+      } else if (window.web3) {
+        window.web3 = new Web3(web3.currentProvider)
+        initPayButton()
+      } else {
+        $('#status').html('No Metamask (or other Web3 Provider) installed')
+      }
+    })
+
+    const initPayButton = () => {
+      $('.pay-button').click(() => {
+        // paymentAddress is where funds will be send to
+        const paymentAddress = '0x73A1E3357f6FE7AD617c27364506811A99328674'
+        const amountEth = '1'
+
+        web3.eth.sendTransaction({
+		  from: ethereum.selectedAddress,
+          to: paymentAddress,
+          value: web3.utils.toWei(amountEth, 'ether')
+        }, (err, transactionId) => {
+          if  (err) {
+            console.log('Payment failed', err)
+            $('#status').html('Payment failed')
+          } else {
+            console.log('Payment successful', transactionId)
+            $('#status').html('Payment successful')
+          }
+        })
+      })
+    }
+
+
+
+  function updateTextInput(val) {
+    document.getElementById('investment').value=val;
+  }
+  $(document).ready(function() {
+      $('#loggedUserInfoForm').submit(function(e) {
+          e.preventDefault();
+          $.ajax({
+              type: "POST",
+              url: 'wallet.php',
+              data: $(this).serialize(),
+              success: function(response)
+              {
+                  var jsonData = JSON.parse(response);
+
+                  if (jsonData.success == "1")
+                  {
+                      location.href = 'coins.php';
+                  }
+                  else
+                  {
+                      alert('Invalid Operations! Please, try again.');
+                  }
+             }
+         });
+       });
+  });
+  </script>
+</body>
+</html>
